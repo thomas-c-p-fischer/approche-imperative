@@ -1,4 +1,4 @@
-package temp;
+package fr.algorithmie;
 
 public class ComparaisonTableau {
 
