@@ -16,6 +16,7 @@ public class InteractifTantQue {
 				nb = sc.nextInt();
 			} while(nb <= 1 && nb >= 10);
 			System.out.println("Le nombre saisi est le : " + nb);
+			sc.close();
 		}
 	}
 }
